@@ -93,3 +93,15 @@ This analysis helps marketing teams:
 ## 📁 Files Included
 
 - marketing_campaign_analysis.sql — Contains all SQL queries used in the analysis  
+## 📸 Query Output Screenshots
+### Table Creation Queries
+![Create Tables Part 1](create_tables_part1.png)
+![Create Tables Part 2](create_tables_part2.png)
+### Tables Successfully Created
+![Tables Created](tables_created.png)
+### Best Performing Campaign
+![Best Campaign](best_campaign.png)
+### Spending vs Campaign Acceptance
+![Spend vs Response](spend_vs_response.png)
+### Country-wise Campaign Response
+![Country Response](country_response.png)
